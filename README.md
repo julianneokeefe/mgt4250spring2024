@@ -17,6 +17,10 @@ These questions are *especially* **important** because...
 
 [Elon University](https://www.elon.edu)
 
+'''
+import pandas as pd
+'''
+
 ## Data description
 
 ## Interpreting Visualizations
