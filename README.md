@@ -17,7 +17,7 @@ These questions are *especially* **important** because...
 
 [Elon University](https://www.elon.edu)
 
-##Data description
+## Data description
 
 ## Interpreting Visualizations
 
