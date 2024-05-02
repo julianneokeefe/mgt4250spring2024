@@ -12,5 +12,5 @@ These questions are *especially* **important** because...
 2. reason 2
 3. reason 3
 
-[Elon University](https://elon.edu)
+[Elon University](https://www.elon.edu)
 <img width="335" alt="Screen Shot 2024-05-02 at 2 53 54 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/a817b19b-67f6-44b5-835a-26d2416a768e">
