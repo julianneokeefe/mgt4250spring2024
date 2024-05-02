@@ -17,3 +17,13 @@ These questions are *especially* **important** because...
 
 [Elon University](https://www.elon.edu)
 
+
+
+##Data Description
+
+## Interpreting Visualizations
+
+<img width="438" alt="Screen Shot 2024-05-02 at 2 58 50 PM" src="https://github.com/julianneokeefe/mgt4250spring2024/assets/168772624/67192397-c09c-4198-9528-e8bca4376239">
+
+
+## Discussion & Summary
