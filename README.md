@@ -1,5 +1,5 @@
 # MGT 4250 Spring 2024 Course Project
-Authors: Julianne O'Keefe, (julianneokeefe1@outlook.com)
+Author(s): Julianne O'Keefe (julianneokeefe1@outlook.com), Madeline Seburn mseburn@elon.edu
 
 ## Project Description
 ### Queestions of interest
